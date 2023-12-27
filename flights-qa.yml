@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 flights:
-  message: "Welcome to BlueSky flights related QA APIs "
+  message: "Welcome to BlueSky flights related Quality A APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
