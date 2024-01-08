@@ -1,6 +1,6 @@
 
 flights:
-  message: "Welcome to BlueSky fares related local APIs "
+  message: "Welcome to BlueSky flights related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@bluesky.com"
